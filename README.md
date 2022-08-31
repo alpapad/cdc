@@ -1,3 +1,7 @@
+# More
+
+https://schuett.io/2013/09/avr-raspberry-pi-vw-beta-vag-cdc-faker/
+
 # Emulator (Arduino & Raspbery Pi) for<br>Audi Gamma CC Bose CD Changer 
 
 ### Preface
